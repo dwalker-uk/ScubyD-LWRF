@@ -13,7 +13,7 @@ In approaching the problem, I have drawn from a number of other sources to which
 Current files in this project include:
  - ScubyD-LWRF-Tx.ino         - My transmit code (using the roberttidey libraries)
  - ScubyD-LWRF-Rx.ino         - My receive code (using the roberttidey libraries)
- - ScubyD-LWRF-Protocol.pdf   - A write-up of my view of the 10-character commands which make up the protocol.
+ - LightwaveRF Protocol.pdf   - A write-up of my view of the 10-character commands which make up the protocol.
 
 Hopefully this will help someone out there - and very happy to receive comments / corrections, or to collaborate on this.
 
